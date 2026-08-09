@@ -43,7 +43,7 @@ google-auth-httplib2==0.2.0
 google-auth-oauthlib==1.0.0
 googleapis-common-protos==1.63.0
 greenlet==1.1.2
-h11==0.14.0
+h11==0.16.0
 httpagentparser==1.9.5
 httplib2==0.22.0
 idna==3.6
